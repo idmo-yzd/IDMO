@@ -3,33 +3,31 @@
   <img src="https://github.com/user-attachments/assets/ebb9642d-06f0-41bb-8fd5-d27bfaf35a71" alt="77-97-107-101-44-32-76-101-97-114-110-44-32-83-104-97-114-101-46" width="400">
 </p>
 
+# 👋 Welcome to my GitHub!
 
-# 👋 Bienvenue sur mon GitHub !
+I’m a passionate explorer of everything related to technology and security. 🌐💻  
+Whether it’s **DevOps**, **web development**, or **cybersecurity**, I thrive in a vast and ever-evolving field. 🚀  
 
-Je suis un explorateur passionné par tout ce qui touche à l'informatique et à la sécurité. 🌐💻  
-Que ce soit en **DevOps**, en **développement web**, ou encore en **cybersécurité**, je m'épanouis dans un domaine immense et en perpétuelle évolution. 🚀  
+My unique background, combining **law**, **transport & logistics**, and **commerce**, is a source of richness. A strength that brings a unique perspective to every project.  
+Today, I’m fully dedicated to enhancing my knowledge in IT and contributing to an ever-expanding field, driven by an insatiable curiosity and a commitment to continuous learning, understanding, and sharing. 📚✨  
+ 
+## 🌟 What you'll find here:
 
-Mon parcours atypique, mêlant **droit**, **transport & logistique**, et **commerce**, est une source de richesse et d'originalité. Une force qui apporte une perspective unique à chaque projet.  
-
-Aujourd'hui, je me consacre pleinement à enrichir mes connaissances en informatique et à contribuer à un domaine en pleine expansion, avec une curiosité insatiable et une volonté de toujours apprendre, comprendre et transmettre. 📚✨  
-
-## 🌟 Ce que vous trouverez ici :
-
-- 🌟 **Automatisation et outils pour la cybersécurité**  
-- 🌍 **Déploiement et gestion d'infrastructures**  
-- 💡 **Solutions créatives pour des défis techniques**  
-
+- 🌟 **Automation and tools for cybersecurity**  
+- 🌍 **Deployment and infrastructure management**  
+- 💡 **Creative solutions to technical challenges**  
+ 
 ---
 
-Je crois fermement que **la curiosité est une force**, comme le disait _The Mentor_ dans le _Manifeste du hacker_.  
-Ce GitHub est mon espace d'exploration, de partage et d'apprentissage. 🌱  
+I firmly believe that **curiosity is a strength**, as _The Mentor_ said in the _Hacker Manifesto_.  
+This GitHub is my space to **explore**, **share**, and **learn**. 🌱  
 
-## 💬 Philosophie  
+## 💬 Philosophy  
 
-💡 **Si vous partagez la même passion**, si, comme moi, vous pensez que chaque ligne de code est une exploration et une opportunité de grandir, je vous invite à explorer, commenter ou collaborer.  
-Ensemble, nous pouvons faire la différence. 🤝  
+💡 **If you share the same passion**, if, like me, you believe that every line of code is an exploration and an opportunity to grow, feel free to explore, comment, or collaborate.  
+Together, we can make a difference. 🤝  
 
-*"C'est notre monde maintenant... le monde de l'électron et de l'interrupteur, la beauté du baud."*  
+*"This is our world now... the world of the electron and the switch, the beauty of the baud."*  
 
 ---
 
