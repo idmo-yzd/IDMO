@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ebb9642d-06f0-41bb-8fd5-d27bfaf35a71" alt="77-97-107-101-44-32-76-101-97-114-110-44-32-83-104-97-114-101-46" width="400">
+</p>
+
+
 # 👋 Bienvenue sur mon GitHub !
 
 Je suis un explorateur passionné par tout ce qui touche à l'informatique et à la sécurité. 🌐💻  
